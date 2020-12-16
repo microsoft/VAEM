@@ -1,0 +1,16 @@
+{
+    "epochs" : 3000,
+    "latent_dim" : 20, 
+    "p" : 0.99, 
+    "iteration" : 10, 
+    "batch_size" : 100,
+    "K" : 100, 
+    "M" : 10, 
+    "repeat" : 1,
+    "data_name" : "bank",
+    "output_dir" : "./saved_weights/bank/",
+    "data_dir" : "./data/bank/",
+    "list_strategy" : [] ,
+    "list_stage" : [1,2]
+}
+
