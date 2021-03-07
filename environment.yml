@@ -1,0 +1,17 @@
+name: vaem
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+- python>=3.6
+- numpy==1.15.2
+- scipy==1.1.0
+- scikit-learn==0.20.0
+- matplotlib==3.0.2
+- pandas==0.23.4
+- seaborn==0.9.0
+- tensorboard
+- jupyter
+- jupyterlab 
+- jupytext 
+- tensorflow==1.4.0
